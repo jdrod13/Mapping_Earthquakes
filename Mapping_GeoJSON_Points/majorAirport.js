@@ -1,5 +1,5 @@
 {
-    "FeatureCollection",
+    type: "FeatureCollection",
     features: [
     {
     type: "Feature",
@@ -24,9 +24,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3566",
+    id: "3566",
     name: "William P Hobby Airport",
     city: "Houston",
     country: "United States",
@@ -37,8 +37,8 @@
     dst: "A",
     tz: "America/Chicago"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -95.27890015,
     29.64539909
@@ -46,9 +46,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3484",
+    id: "3484",
     name: "Los Angeles International Airport",
     city: "Los Angeles",
     country: "United States",
@@ -59,8 +59,8 @@
     dst: "A",
     tz: "America/Los_Angeles"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -118.4079971,
     33.94250107
@@ -68,9 +68,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3697",
+    id: "3697",
     name: "La Guardia Airport",
     city: "New York",
     country: "United States",
@@ -81,8 +81,8 @@
     dst: "A",
     tz: "America/New_York"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -73.87259674,
     40.77719879
@@ -90,9 +90,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3797",
+    id: "3797",
     name: "John F Kennedy International Airport",
     city: "New York",
     country: "United States",
@@ -103,8 +103,8 @@
     dst: "A",
     tz: "America/New_York"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -73.77890015,
     40.63980103
@@ -112,9 +112,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3747",
+    id: "3747",
     name: "Chicago Midway International Airport",
     city: "Chicago",
     country: "United States",
@@ -125,8 +125,8 @@
     dst: "A",
     tz: "America/Chicago"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -87.752403,
     41.785999
@@ -134,9 +134,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3830",
+    id: "3830",
     name: "Chicago O'Hare International Airport",
     city: "Chicago",
     country: "United States",
@@ -147,8 +147,8 @@
     dst: "A",
     tz: "America/Chicago"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -87.9048,
     41.9786
@@ -156,9 +156,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3577",
+    id: "3577",
     name: "Seattle Tacoma International Airport",
     city: "Seattle",
     country: "United States",
@@ -169,8 +169,8 @@
     dst: "A",
     tz: "America/Los_Angeles"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -122.308998,
     47.449001
@@ -178,9 +178,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3731",
+    id: "3731",
     name: "San Diego International Airport",
     city: "San Diego",
     country: "United States",
@@ -191,8 +191,8 @@
     dst: "A",
     tz: "America/Los_Angeles"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -117.190002441,
     32.7336006165
@@ -200,9 +200,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3473",
+    id: "3473",
     name: "Memphis International Airport",
     city: "Memphis",
     country: "United States",
@@ -213,8 +213,8 @@
     dst: "A",
     tz: "America/Chicago"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -89.97669982910156,
     35.04240036010742
@@ -222,9 +222,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3673",
+    id: "3673",
     name: "Austin Bergstrom International Airport",
     city: "Austin",
     country: "United States",
@@ -235,8 +235,8 @@
     dst: "A",
     tz: "America/Chicago"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -97.6698989868164,
     30.194499969482422
@@ -244,9 +244,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3576",
+    id: "3576",
     name: "Miami International Airport",
     city: "Miami",
     country: "United States",
@@ -257,8 +257,8 @@
     dst: "A",
     tz: "America/New_York"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -80.29060363769531,
     25.79319953918457
@@ -266,9 +266,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3682",
+    id: "3682",
     name: "Hartsfield Jackson Atlanta International Airport",
     city: "Atlanta",
     country: "United States",
@@ -279,8 +279,8 @@
     dst: "A",
     tz: "America/New_York"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -84.428101,
     33.6367
@@ -288,9 +288,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3469",
+    id: "3469",
     name: "San Francisco International Airport",
     city: "San Francisco",
     country: "United States",
@@ -301,8 +301,8 @@
     dst: "A",
     tz: "America/Los_Angeles"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -122.375,
     37.61899948120117
@@ -310,9 +310,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3502",
+    id: "3502",
     name: "Dallas Love Field",
     city: "Dallas",
     country: "United States",
@@ -323,8 +323,8 @@
     dst: "A",
     tz: "America/Chicago"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -96.851799,
     32.847099
@@ -332,9 +332,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3670",
+    id: "3670",
     name: "Dallas Fort Worth International Airport",
     city: "Dallas-Fort Worth",
     country: "United States",
@@ -345,8 +345,8 @@
     dst: "A",
     tz: "America/Chicago"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -97.038002,
     32.896801
@@ -354,9 +354,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3626",
+    id: "3626",
     name: "Raleigh Durham International Airport",
     city: "Raleigh-durham",
     country: "United States",
@@ -367,8 +367,8 @@
     dst: "A",
     tz: "America/New_York"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -78.7874984741211,
     35.877601623535156
@@ -376,9 +376,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3364",
+    id: "3364",
     name: "Beijing Capital International Airport",
     city: "Beijing",
     country: "China",
@@ -389,8 +389,8 @@
     dst: "U",
     tz: "Asia/Shanghai"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     116.58499908447266,
     40.080101013183594
@@ -398,9 +398,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "2188",
+    id: "2188",
     name: "Dubai International Airport",
     city: "Dubai",
     country: "United Arab Emirates",
@@ -411,8 +411,8 @@
     dst: "U",
     tz: "Asia/Dubai"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     55.3643989563,
     25.2527999878
@@ -420,9 +420,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "507",
+    id: "507",
     name: "London Heathrow Airport",
     city: "London",
     country: "United Kingdom",
@@ -433,8 +433,8 @@
     dst: "E",
     tz: "Europe/London"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -0.461941,
     51.4706
@@ -442,9 +442,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3077",
+    id: "3077",
     name: "Hong Kong International Airport",
     city: "Hong Kong",
     country: "Hong Kong",
@@ -455,8 +455,8 @@
     dst: "U",
     tz: "Asia/Hong_Kong"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     113.915001,
     22.308901
@@ -464,9 +464,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "1382",
+    id: "1382",
     name: "Charles de Gaulle International Airport",
     city: "Paris",
     country: "France",
@@ -477,8 +477,8 @@
     dst: "E",
     tz: "Europe/Paris"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     2.55,
     49.012798
@@ -486,9 +486,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "340",
+    id: "340",
     name: "Frankfurt am Main Airport",
     city: "Frankfurt",
     country: "Germany",
@@ -499,8 +499,8 @@
     dst: "E",
     tz: "Europe/Berlin"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     8.570556,
     50.033333
@@ -508,9 +508,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "193",
+    id: "193",
     name: "Lester B. Pearson International Airport",
     city: "Toronto",
     country: "Canada",
@@ -521,8 +521,8 @@
     dst: "A",
     tz: "America/Toronto"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -79.63059997559999,
     43.6772003174
@@ -530,9 +530,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "346",
+    id: "346",
     name: "Munich Airport",
     city: "Munich",
     country: "Germany",
@@ -543,8 +543,8 @@
     dst: "E",
     tz: "Europe/Berlin"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     11.7861,
     48.353802
@@ -552,9 +552,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3361",
+    id: "3361",
     name: "Sydney Kingsford Smith International Airport",
     city: "Sydney",
     country: "Australia",
@@ -565,8 +565,8 @@
     dst: "O",
     tz: "Australia/Sydney"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     151.177001953125,
     -33.94609832763672
@@ -574,9 +574,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "502",
+    id: "502",
     name: "London Gatwick Airport",
     city: "London",
     country: "United Kingdom",
@@ -587,8 +587,8 @@
     dst: "E",
     tz: "Europe/London"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -0.190278,
     51.148102
@@ -596,9 +596,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "2279",
+    id: "2279",
     name: "Narita International Airport",
     city: "Tokyo",
     country: "Japan",
@@ -609,8 +609,8 @@
     dst: "U",
     tz: "Asia/Tokyo"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     140.386001587,
     35.7647018433
@@ -618,9 +618,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3391",
+    id: "3391",
     name: "Shanghai Hongqiao International Airport",
     city: "Shanghai",
     country: "China",
@@ -631,8 +631,8 @@
     dst: "U",
     tz: "Asia/Shanghai"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     121.33599853515625,
     31.197900772094727
@@ -640,9 +640,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "2276",
+    id: "2276",
     name: "Taiwan Taoyuan International Airport",
     city: "Taipei",
     country: "Taiwan",
@@ -653,8 +653,8 @@
     dst: "U",
     tz: "Asia/Taipei"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     121.233002,
     25.0777
@@ -662,9 +662,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3858",
+    id: "3858",
     name: "Minneapolis-St Paul International/Wold-Chamberlain Airport",
     city: "Minneapolis",
     country: "United States",
@@ -675,8 +675,8 @@
     dst: "A",
     tz: "America/Chicago"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -93.221802,
     44.882
@@ -684,9 +684,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "1824",
+    id: "1824",
     name: "Licenciado Benito Juarez International Airport",
     city: "Mexico City",
     country: "Mexico",
@@ -697,8 +697,8 @@
     dst: "S",
     tz: "America/Mexico_City"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     -99.072098,
     19.4363
@@ -706,9 +706,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "13696",
+    id: "13696",
     name: "Istanbul Airport",
     city: "Istanbul",
     country: "Turkey",
@@ -719,8 +719,8 @@
     dst: "E",
     tz: "\N"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     28.751944,
     41.275278
@@ -728,9 +728,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "580",
+    id: "580",
     name: "Amsterdam Airport Schiphol",
     city: "Amsterdam",
     country: "Netherlands",
@@ -741,8 +741,8 @@
     dst: "E",
     tz: "Europe/Amsterdam"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     4.76389,
     52.308601
@@ -750,9 +750,9 @@
     }
     },
     {
-    "Feature",
+    type: "Feature",
     properties: {
-    "3316",
+    id: "3316",
     name: "Singapore Changi Airport",
     city: "Singapore",
     country: "Singapore",
@@ -763,8 +763,8 @@
     dst: "N",
     tz: "Asia/Singapore"
     },
-    {
-    "Point",
+    geometry: {
+    type: "Point",
     coordinates: [
     103.994003,
     1.35019
